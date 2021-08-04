@@ -2,6 +2,12 @@ package newGitProject;
 
 public class handsonGit {
 	int i ;
+	
+	public void method0(){
+		System.out.println("method0");
+	}
+	
+	
 	public void method1(){
 		System.out.println("method1");
 	}
