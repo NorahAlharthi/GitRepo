@@ -2,7 +2,7 @@ package newGitProject;
 
 public class handsonGit {
 	int i ;
-<<<<<<< HEAD
+
 	public void method2(){
 		System.out.println("method2");
 	}
@@ -11,9 +11,6 @@ public class handsonGit {
 	}
 	public void method4(){
 		System.out.println("method4");
-=======
-	public void method1(){
-		System.out.println("method1");
->>>>>>> refs/heads/master
-	}
+		
+}
 }
