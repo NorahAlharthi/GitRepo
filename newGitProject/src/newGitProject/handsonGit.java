@@ -5,4 +5,8 @@ public class handsonGit {
 	public void method1(){
 		System.out.println("method1");
 	}
+	public void method12(){
+		System.out.println("method1");
+	}	
+	
 }
